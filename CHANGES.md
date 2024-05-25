@@ -9,5 +9,5 @@ The CC 4.0 license requires that forks state changes that are made to the origin
 5/24/2024: Switched the contact form to use JavaScript to submit instead. Also added nice success/error message.
 5/24/2024: Changed the meta partial to not automatically concatenate the page and site names to make a title
 5/24/2024: Added support for custom heading to contact form
-
+5/24/2024: Added support for custom heading to single-sidebar layout
 
